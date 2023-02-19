@@ -1,4 +1,4 @@
 # XL
 - [XL on GitHub](https://github.com/xlsigned)
-- [XL on Google+](https://plus.google.com/+AxelDyks)
-- [XL on Twitter](https://twitter.com/xlsigned)
+- [XL on GitLab](https://gitlab.com/xlsigned)
+- [XL on Fosstodon](https://fosstodon.org/@xl)
